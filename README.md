@@ -1,10 +1,3 @@
-<span>
-<p align="center">
-
-![3D Game Shaders For Beginners](https://i.imgur.com/dlmGbRU.gif)
-
-</p>
-</span>
 
 # 3D Game Shaders For Beginners
 
